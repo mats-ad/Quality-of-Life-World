@@ -1,5 +1,6 @@
 # Quality-of-Life-World
 
+<<<<<<< HEAD
 ## TO DOs
 - Data Prep
 - [ ] Tabellen einlesen 
@@ -9,3 +10,7 @@
     - [ ] Arbeitslosenquote neuer Datensatz
     - [ ] Alle Daten inital einlesen und Grafiken testen 
     - [ ] Datenkonsistenz
+=======
+DAP_Test.py ist nur zum Daten laden und ruprobieren da
+- [ ] do
+>>>>>>> refs/remotes/origin/main
